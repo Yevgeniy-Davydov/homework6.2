@@ -1,0 +1,28 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    box-sizing: border-box;
+}
+.caption {
+    min-height: 450px;
+}
+.arrow {
+    max-height: 30px;
+    max-width: 30px;
+}
+.menu {
+    width: 100%;
+}
+.main {
+    background-image: url("img/pexels-fauxels-3183172.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    min-height: 1110px;
+
+}
+.description {
+    background-color: white;
+    min-height: 719px;
+    min-width: 683px;
+}
